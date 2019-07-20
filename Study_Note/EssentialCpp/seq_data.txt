@@ -1,0 +1,1 @@
+Fibonacci	Lucas	Pell	Triangular	Square	Pentagonal

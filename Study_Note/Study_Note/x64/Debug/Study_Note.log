@@ -1,0 +1,8 @@
+﻿  advance.cpp
+c:\users\droplet\source\repos\study_note\study_note\advance.cpp(158): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\droplet\source\repos\study_note\study_note\advance.cpp(212): warning C4267: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Study_Note.vcxproj -> C:\Users\Droplet\source\repos\Study_Note\x64\Debug\Study_Note.exe
